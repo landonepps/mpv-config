@@ -16,6 +16,6 @@
 [submodule "shaders/SSimSuperRes"]
 	path = shaders/SSimSuperRes
 	url = git@gist.github.com:2364ffa6e81540f29cb7ab4c9bc05b6b.git
-[submodule "shaders/FineSharp"]
-	path = shaders/FineSharp
-	url = git@gist.github.com:a9a21ad1f6dd7d0b4452.git
+[submodule "shaders/KrigBilateral"]
+	path = shaders/KrigBilateral
+	url = git@gist.github.com:a015fc885d5c22e6891820ad89555637.git
